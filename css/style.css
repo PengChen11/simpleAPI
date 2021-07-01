@@ -68,7 +68,7 @@
   position: absolute;
   left:0px;
   top:0px;
-  background-image: url(/assets/img/background_wide.jpeg);
+  background-image: url(../assets/img/background_wide.jpeg);
   background-repeat: no-repeat;
   background-size:contain;
   background-position: right;
@@ -132,7 +132,7 @@
     color: red;
   }
   .background{
-    background-image: url(/assets/img/background_narrow.jpeg);
+    background-image: url(../assets/img/background_narrow.jpeg);
     background-position: bottom;
   }
   .video {
